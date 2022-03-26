@@ -1,5 +1,5 @@
-# Gender Classification for Masked Face
-This github repo is just one module(Gender Classification) of our research paper. 
+# A Deep Learning Framework to Reconstruct Face under Mask
+This github repo has just one module(Gender Classification)'s code of our research paper. 
 
 
 The link of the paper: https://arxiv.org/abs/2203.12482

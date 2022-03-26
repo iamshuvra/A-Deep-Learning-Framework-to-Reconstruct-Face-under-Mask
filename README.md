@@ -9,7 +9,9 @@ The link of the paper: https://arxiv.org/abs/2203.12482
 Dataset for this paper: https://drive.google.com/drive/folders/1RAcxpuBsmj8muouTK3NxlhAdcYvYTPT5
 
 
-Some results of mask segmentations:-
+Some Qualitative Results:-
 
 We have perfectly detect the mask as an object. Here is the result you can see: 
+
+
 ![Object Detection](https://github.com/itsshuvra/A-Deep-Learning-Framework-to-Reconstruct-Face-under-Mask/blob/main/Results/Mask2.PNG)

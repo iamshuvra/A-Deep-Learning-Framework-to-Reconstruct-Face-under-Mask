@@ -27,3 +27,6 @@ There is no edges on the face because we have detect the region of the mask prop
 Now, comparison with the ground truth of an image we know.
 
 ![Target Image](https://github.com/itsshuvra/A-Deep-Learning-Framework-to-Reconstruct-Face-under-Mask/blob/main/Results/Target1.PNG)
+
+
+Cite as [G. Modak, S. S. Das, M. A. Islam Miraj and M. K. Morol, "A Deep Learning Framework to Reconstruct Face under Mask," 2022 7th International Conference on Data Science and Machine Learning Applications (CDMA), 2022, pp. 200-205, doi: 10.1109/CDMA54072.2022.00038.] 

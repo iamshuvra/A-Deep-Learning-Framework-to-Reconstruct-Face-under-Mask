@@ -29,4 +29,10 @@ Now, comparison with the ground truth of an image we know.
 ![Target Image](https://github.com/itsshuvra/A-Deep-Learning-Framework-to-Reconstruct-Face-under-Mask/blob/main/Results/Target1.PNG)
 
 
-Cite as [G. Modak, S. S. Das, M. A. Islam Miraj and M. K. Morol, "A Deep Learning Framework to Reconstruct Face under Mask," 2022 7th International Conference on Data Science and Machine Learning Applications (CDMA), 2022, pp. 200-205, doi: 10.1109/CDMA54072.2022.00038.] 
+Citation
+------------------------------------------
+If you use our work in your research, please cite our paper. 
+
+```
+@INPROCEEDINGS{9736350,  author={Modak, Gourango and Das, Shuvra Smaran and Islam Miraj, Md. Ajharul and Morol, Md. Kishor},  booktitle={2022 7th International Conference on Data Science and Machine Learning Applications (CDMA)},   title={A Deep Learning Framework to Reconstruct Face under Mask},   year={2022},  volume={},  number={},  pages={200-205},  doi={10.1109/CDMA54072.2022.00038}}
+```

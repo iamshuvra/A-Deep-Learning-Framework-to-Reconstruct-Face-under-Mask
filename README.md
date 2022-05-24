@@ -7,12 +7,13 @@ This is the official repository for the research work [A Deep Learning Framework
 The pdf version of the full paper: https://arxiv.org/abs/2203.12482
 
 
+# Datasets
 
 Dataset of Mask Segementation and Inpainting: [Google Drive](https://drive.google.com/drive/folders/1RAcxpuBsmj8muouTK3NxlhAdcYvYTPT5) || [Mendeley](https://data.mendeley.com/datasets/zvr4jwvcrc/2)
 
 Dataset for Gender Classification: [Gender Classified Dataset with Masked Face](https://www.kaggle.com/datasets/itsshuvra/gender-classified-dataset-with-masked-face)
 
-
+# Experiments
 We have used the Labelme software to create our dataset. You will find the mask segmentation dataset in the above link. Here is one example:
 
 ![Labelme](https://github.com/itsshuvra/A-Deep-Learning-Framework-to-Reconstruct-Face-under-Mask/blob/main/Results/Mask1.PNG)
@@ -35,14 +36,15 @@ Now, comparison with the ground truth of an image we know.
 
 We have used [Adaptive WingLoss](https://github.com/protossw512/AdaptiveWingLoss) for Facial Landmark Calculation.
 
-## Trained Models
-Inpainting Model:
+# Trained Models
+## Inpainting Model:
 
-Mask Segmentation Model:
+## Mask Segmentation Model:
+We have used [Mask RCNN](https://github.com/matterport/Mask_RCNN) to train our dataset. Saved Model Link: 
 
-### Gender Classification Model: 
+## Gender Classification Model: 
 We have used [Inception V3](https://github.com/fchollet/deep-learning-models/blob/master/inception_v3.py) pretrained model and used keras tuner to tune the model for our problem. We trained with the dataset of 89k images separately male and female. 
-[Google Drive](https://drive.google.com/file/d/1fF_CAdi_b2I-9p_jjRS9cXzg1UxWkEd9/view?usp=sharing)
+Saved Model Link: [Google Drive](https://drive.google.com/file/d/1fF_CAdi_b2I-9p_jjRS9cXzg1UxWkEd9/view?usp=sharing)
 
 Citation
 ------------------------------------------

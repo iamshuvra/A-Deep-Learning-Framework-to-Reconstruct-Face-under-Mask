@@ -29,9 +29,11 @@ Now, comparison with the ground truth of an image we know.
 ![Target Image](https://github.com/itsshuvra/A-Deep-Learning-Framework-to-Reconstruct-Face-under-Mask/blob/main/Results/Target1.PNG)
 
 
-##Trained Models
+## Trained Models
 Inpainting Model:
+
 Mask Segmentation Model:
+
 Gender Classification Model: [Google Drive](https://drive.google.com/file/d/1fF_CAdi_b2I-9p_jjRS9cXzg1UxWkEd9/view?usp=sharing)
 
 Citation

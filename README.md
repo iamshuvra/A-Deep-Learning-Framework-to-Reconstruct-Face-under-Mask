@@ -8,7 +8,8 @@ The pdf version of the full paper: https://arxiv.org/abs/2203.12482
 
 
 
-Dataset for this paper: [Google Drive](https://drive.google.com/drive/folders/1RAcxpuBsmj8muouTK3NxlhAdcYvYTPT5) || [Mendeley](https://data.mendeley.com/datasets/zvr4jwvcrc/2)
+Dataset of Mask Segementation and Inpainting: [Google Drive](https://drive.google.com/drive/folders/1RAcxpuBsmj8muouTK3NxlhAdcYvYTPT5) || [Mendeley](https://data.mendeley.com/datasets/zvr4jwvcrc/2)
+Dataset for Gender Classification: [Gender Classified Dataset with Masked Face](https://www.kaggle.com/datasets/itsshuvra/gender-classified-dataset-with-masked-face)
 
 We have used the Labelme software to create our dataset. You will find the mask segmentation dataset in the above link. Here is one example:
 
@@ -37,7 +38,9 @@ Inpainting Model:
 
 Mask Segmentation Model:
 
-Gender Classification Model: [Google Drive](https://drive.google.com/file/d/1fF_CAdi_b2I-9p_jjRS9cXzg1UxWkEd9/view?usp=sharing)
+### Gender Classification Model: 
+We have used [Inception V3](https://github.com/fchollet/deep-learning-models/blob/master/inception_v3.py) pretrained model and used keras tuner to tune the model for our problem. We trained with the dataset of 89k images separately male and female. 
+[Google Drive](https://drive.google.com/file/d/1fF_CAdi_b2I-9p_jjRS9cXzg1UxWkEd9/view?usp=sharing)
 
 Citation
 ------------------------------------------

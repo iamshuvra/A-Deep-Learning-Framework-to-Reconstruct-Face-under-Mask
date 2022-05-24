@@ -28,6 +28,7 @@ Now, comparison with the ground truth of an image we know.
 
 ![Target Image](https://github.com/itsshuvra/A-Deep-Learning-Framework-to-Reconstruct-Face-under-Mask/blob/main/Results/Target1.PNG)
 
+We have used [Adapting Wingloss](https://github.com/protossw512/AdaptiveWingLoss) for Facial Landmark Calculation.
 
 ## Trained Models
 Inpainting Model:

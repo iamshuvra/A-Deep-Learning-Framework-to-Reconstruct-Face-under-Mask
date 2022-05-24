@@ -1,8 +1,7 @@
 # A Deep Learning Framework to Reconstruct Face under Mask
-This github repo has just one module(Gender Classification)'s code of our research paper. We will update soon with the other modules code.
+This is the official repository for the research work [A Deep Learning Framework to Reconstruct Face under Mask](https://ieeexplore.ieee.org/document/9736350/)
 
-
-The link of the paper: https://arxiv.org/abs/2203.12482
+The pdf version of the full paper: https://arxiv.org/abs/2203.12482
 
 
 

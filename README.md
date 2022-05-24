@@ -39,7 +39,7 @@ Gender Classification Model: [Google Drive](https://drive.google.com/file/d/1fF_
 
 Citation
 ------------------------------------------
-If you use our work in your research, please cite our paper. 
+If you find our work helpful for your research, please cite our paper. 
 
 ```
 @INPROCEEDINGS{9736350,  author={Modak, Gourango and Das, Shuvra Smaran and Islam Miraj, Md. Ajharul and Morol, Md. Kishor},  

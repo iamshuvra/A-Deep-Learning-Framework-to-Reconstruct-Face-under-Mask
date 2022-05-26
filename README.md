@@ -40,7 +40,7 @@ We have used [Adaptive WingLoss](https://github.com/protossw512/AdaptiveWingLoss
 ## Inpainting Model:
 
 ## Mask Segmentation Model:
-We have used [Mask RCNN](https://github.com/matterport/Mask_RCNN) to train our dataset. Saved Model Link: 
+We have used [Mask RCNN](https://github.com/matterport/Mask_RCNN) to train our dataset. Saved Model Link: [Google Drive](https://drive.google.com/file/d/1-5GGKKmwG96W5PzqwMwT5hTvipERn0M3/view?usp=sharing)
 
 ## Gender Classification Model: 
 We have used [Inception V3](https://github.com/fchollet/deep-learning-models/blob/master/inception_v3.py) pretrained model and used keras tuner to tune the model for our problem. We trained with the dataset of 89k images separately male and female. 

@@ -37,7 +37,13 @@ Now, comparison with the ground truth of an image we know.
 We have used [Adaptive WingLoss](https://github.com/protossw512/AdaptiveWingLoss) for Facial Landmark Calculation.
 
 # Trained Models
-## Inpainting Model:
+## Inpainting Model
+###FFHQ
+For Male: [Generator](https://drive.google.com/file/d/1-6Qul73nxR68DgyM_7hjLqUXYyQ1pPQb/view?usp=sharing) [Descriminator](https://drive.google.com/file/d/1-8hT8Xl8rnw8c9gjygxD32CaScnU1n5y/view?usp=sharing)
+For Female: [Generator](https://drive.google.com/file/d/18FUMW5QP0_hz8H3EUuK2UoEV_eYIKUu0/view?usp=sharing) [Descriminator](https://drive.google.com/file/d/18FWZqnB7tXCxfjlUFPXmKI2QN5NHaTng/view?usp=sharing)
+###CelebA
+For Male: [Generator](https://drive.google.com/file/d/10QSBLUmATJqvnH6_2tqH2NQx80KqiOVU/view?usp=sharing) [Descriminator](https://drive.google.com/file/d/10cidzbeoXH0R7YknKqiDrTND5LZMR23Q/view?usp=sharing)
+For Female: [Generator](https://drive.google.com/file/d/1-U5eWNpo7HXT_swSpZjzDdCRtGDh7Z4k/view?usp=sharing) [Descriminator](https://drive.google.com/file/d/1-V7e-UHnaOs3MMoAVxkwCVYL6z7Xuivr/view?usp=sharing)
 
 ## Mask Segmentation Model:
 We have used [Mask RCNN](https://github.com/matterport/Mask_RCNN) to train our dataset. Saved Model Link: [Google Drive](https://drive.google.com/file/d/1-5GGKKmwG96W5PzqwMwT5hTvipERn0M3/view?usp=sharing)
